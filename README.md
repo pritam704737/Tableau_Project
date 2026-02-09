@@ -1,7 +1,7 @@
 # Tableau_Project
 Tablue_banking_Data_Analytics
 Stakeholder Insights and Performance Dashboard
-
+ https://pritam704737.github.io/Tableau_Project/
 
 📌 Project Purpose
 The primary objective of this dashboard is to provide a comprehensive and unified view of business metrics regarding stakeholders, insurers, and policy performance. It serves as a strategic tool to analyze premium trends, profitability, and asset distribution to drive data-informed decisions.
